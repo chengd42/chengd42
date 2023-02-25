@@ -2,7 +2,7 @@
   <img width=80% src="https://user-images.githubusercontent.com/12732952/221353465-87701a71-797f-4711-b302-314ba766fa35.gif" />
  </p>
 
-
+<div style="width:80%; margin:auto">
   <samp style="width: 80%">
   
   ### 👋 Hi, I'm Cheng!
@@ -11,4 +11,4 @@
   📬 Based in Stockholm 
   
   </samp>
-
+</div>
