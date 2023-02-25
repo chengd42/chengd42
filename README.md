@@ -4,10 +4,10 @@
  
  <samp>
   
-    ### 👋 Hi, I'm Cheng!
+  ### 👋 Hi, I'm Cheng!
 
-    💻 Frontend develpoer<br>
-    📬 Based in Stockholm
+  💻 Frontend develpoer<br>
+  📬 Based in Stockholm
   
  </samp>
   
