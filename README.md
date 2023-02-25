@@ -3,7 +3,7 @@
  </p>
 
 
-  <samp style="widhh=80%">
+  <samp style="widhh: 80%">
   
   ### 👋 Hi, I'm Cheng!
 
