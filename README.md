@@ -7,7 +7,7 @@
   ### 👋 Hi, I'm Cheng!
 
   💻 Frontend develpoer<br>
-  📬 Based in Stockholm
+  🏠 Based in Stockholm
   
  </samp>
   
